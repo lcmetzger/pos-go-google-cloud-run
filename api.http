@@ -1,0 +1,7 @@
+
+### Teste para acesso local
+GET http://localhost:3000/?cep=89040115
+
+
+### Teste para acesso no Google Cloud Run
+GET https://cloudrun-fctech-299925908894.us-central1.run.app/?cep=89040115
